@@ -4,4 +4,5 @@ asdlfkjsdfdddddddd
 adsfasdf
 lsadkfals;kdjflaksdjf
 로그인 기능 짰다.
+회원가입 기능도 짰다.
 로그아웃기능을 짰따.
